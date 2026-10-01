@@ -3,7 +3,7 @@
 A set of responsive-style testimonial cards for a website, built with plain **HTML** and **CSS**. This is a solution to the [Testimonial Cards](https://roadmap.sh/projects/testimonial-cards) project from [roadmap.sh](https://roadmap.sh), created to practice positioning and layout in CSS.
 
 ## Project Preview
-[Project Preview](./src/images/project-preview.png)
+![Project Preview](./src/images/project-preview.png)
 
 ## Overview
 
