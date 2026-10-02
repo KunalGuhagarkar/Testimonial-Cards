@@ -49,7 +49,7 @@ Testimonials are quotes from satisfied users that help build credibility and tru
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KunalGuhagarkar/Testimonial-Cards
+   git clone https://github.com/KunalGuhagarkar/Testimonial-Cards.git
    ```
 2. Open the project folder:
    ```bash
