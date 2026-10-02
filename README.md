@@ -49,11 +49,11 @@ Testimonials are quotes from satisfied users that help build credibility and tru
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+   git clone https://github.com/KunalGuhagarkar/Testimonial-Cards
    ```
 2. Open the project folder:
    ```bash
-   cd YOUR-REPO-NAME
+   cd Testiminial-Cards
    ```
 3. Open `index.html` in your browser (or use a tool like the VS Code *Live Server* extension).
 
