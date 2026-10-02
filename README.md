@@ -53,7 +53,7 @@ Testimonials are quotes from satisfied users that help build credibility and tru
    ```
 2. Open the project folder:
    ```bash
-   cd Testiminial-Cards
+   cd Testimonial-Cards
    ```
 3. Open `index.html` in your browser (or use a tool like the VS Code *Live Server* extension).
 
